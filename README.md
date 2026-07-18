@@ -1,4 +1,2 @@
-# Fusion-360-first-project
-This is my first 3D drawing in Fusion 360. Although the drawing is simple itself it helped me grasp the basic concepts of extrude, sketch, 2D drawing making and more.
-
-![image alt](https://github.com/Zohaib-EE/Fusion-360-first-project/blob/0784a2107a0246f387975a29fb5c6cd9637c25c5/Project_drawing.png)
+# Fusion 360 projects
+Here are some of the example works I did to learn 3D designing. Some of them are just for practice while others serve some purpose as the .stl filenames say. Let's start by taking a look at the very latest design that I made for my bed. Since the headboard had quiet some space between itsels and the wall I designed a support that allowed it to not move too much, causing it to break the supporting wood of the headboard.
