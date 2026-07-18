@@ -17,7 +17,6 @@ This project is quiet interesting. I created a door hinge for my wardrobe, since
 Now I will list all the other projects created to learn 3D designing
 ![image alt](https://github.com/Zohaib-EE/Fusion-360-projects/blob/7d179c76d5758a4c39a92f8c9ded877705f01aa9/Photos/Shower%20holder.png)
 ![image alt](https://github.com/Zohaib-EE/Fusion-360-projects/blob/7d179c76d5758a4c39a92f8c9ded877705f01aa9/Photos/third_project.png)
-![image alt]([****](https://github.com/Zohaib-EE/Fusion-360-projects/blob/7d179c76d5758a4c39a92f8c9ded877705f01aa9/Photos/fourth_project.png))
+![image alt](https://github.com/Zohaib-EE/Fusion-360-projects/blob/7d179c76d5758a4c39a92f8c9ded877705f01aa9/Photos/fourth_project.png)
 ![image alt](https://github.com/Zohaib-EE/Fusion-360-projects/blob/7d179c76d5758a4c39a92f8c9ded877705f01aa9/Photos/Project_drawing.png)
-![image alt]()
-![image alt]()
+
